@@ -3,7 +3,7 @@ package fr.eni.eniencheres.bo;
 import java.time.LocalDate;
 
 public class Article {
-	private Integer noArticle;
+	private Integer noArticle;// Ceci est un article
 	private String nomArticle;
 	private String description;
 	private LocalDate dateDebutEncheres;
